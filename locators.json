@@ -1,0 +1,12 @@
+{
+  "header.home": ".//a[@href= '#/website-pages/home']",
+  "header.logo": "logo",
+  "home.slider.items": ".//*[@class='slick-dots']/li",
+  "home.loginLink":".//*[@href='#/login']",
+  "home.githublink": ".//*[@id='signup']/a[contains(@class,'btn-github')]",
+  "home.linkedinlink": ".//*[@id='signup']/a[contains(@class,'btn-linkedin')]",
+  "login.username":"session_key-oauth2SAuthorizeForm",
+  "login.password":"session_password-oauth2SAuthorizeForm",
+  "login.loginBtn":"authorize",
+  "home.logoutLink":".//a[@class='navbar-btn btn btn-primary']"
+}
